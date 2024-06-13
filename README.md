@@ -12,3 +12,5 @@ Logging and Monitoring: Includes comprehensive logging of actions and a monitori
 Java JDK 11 or higher
 Eclipse, IntelliJ IDEA, or any compatible Java IDE
 JADE (Java Agent DEvelopment Framework)
+# Communication
+Agents communicate using ACL messages to manage tasks and share information efficiently.
