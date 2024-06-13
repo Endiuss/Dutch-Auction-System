@@ -14,3 +14,5 @@ Eclipse, IntelliJ IDEA, or any compatible Java IDE
 JADE (Java Agent DEvelopment Framework)
 # Communication
 Agents communicate using ACL messages to manage tasks and share information efficiently.
+# Biders Balance Variation After Each Price Change
+![image](https://github.com/Endiuss/Dutch-Auction-System/assets/16562407/78a95cb7-99b5-4135-ae70-38f8414e7544)
