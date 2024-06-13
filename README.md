@@ -6,7 +6,6 @@ The Dutch Auction System is a Java-based simulation that demonstrates the functi
 Multi-Agent Coordination: Implements several agents that manage different aspects of the auction process, coordinating seamlessly to simulate a real auction environment.
 Real-Time Auction Management: Tracks auction progress in real-time and adjusts prices dynamically.
 Bidder Interactions: Simulates the behavior of multiple bidders responding to the auction.
-Interactive GUI: Provides a graphical user interface for real-time monitoring and management of auction operations.
 Logging and Monitoring: Includes comprehensive logging of actions and a monitoring agent that oversees system operations.
 # Prerequisites
 Java JDK 11 or higher
